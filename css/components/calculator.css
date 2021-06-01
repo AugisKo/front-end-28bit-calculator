@@ -1,0 +1,7 @@
+.calculator {
+  display: inline-block;
+  width: 460px;
+  border: 1px;
+  border-color: #000;
+  border-radius: 12%;
+}
