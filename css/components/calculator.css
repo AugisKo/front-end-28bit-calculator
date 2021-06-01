@@ -29,6 +29,7 @@
   padding: 10px;
 }
 .keyboard > .button {
+  display: inline-block;
   width: 84px;
   height: 78px;
   border: 1px solid #000;
